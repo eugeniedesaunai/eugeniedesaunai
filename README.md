@@ -1,4 +1,4 @@
-<h1 style="text-align=center">
+<h1 text-align="center">
   Hello everyone 👋
 </h1>
 
@@ -17,5 +17,4 @@ I'm in a work-study contract with the company **Open Sezam**, which develops a s
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniedesaunai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
