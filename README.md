@@ -1,17 +1,19 @@
-# Bonjour à tous 👋
+# Hello everyone 👋
 
-Je m'appelle Eugénie, suite à une reconversion je viens tous juste d'être diplômé du **Titre professionnel dévelopeur web et web mobile** ( niveau 5). 
-Je suis actuellement à la recherche d'une alternance dans le but de préparer le **Titre professionnel Concepteur Développeur d'application** (niveau 6). 
+My name is Eugenie, following a reconversion I have just graduated from **the professional title web and mobile web developer** (level 5). 
 
-Vour trouverez sur mon profil différents projets élaborés durant cette dernière année. Et également le projet auquel j'ai collaboré durant mon stage. 
+You will find on my profile different projects developed during this last year. And also the project I worked on during my internship. 
+
+I'm currently preparing **the professional title Application Developer Designer** (level 6) with the school O'clock. 
+I'm in a work-study contract with the company Open Sezam, which develops a sass solution for strong authentication without passwords. 
 
 <a href="https://www.linkedin.com/in/eug%C3%A9nie-desaunai-b9354823a/">  <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin" > </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrujfoebsohda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniedesaunai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
-**skrujfoebsohda/skrujfoebsohda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eugeniedesaunai/eugeniedesaunai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
