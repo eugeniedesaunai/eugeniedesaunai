@@ -2,6 +2,7 @@
   Hello everyone 👋
 </h1>
 
+
 My name is Eugenie, following a reconversion I have just graduated from **the professional title web and mobile web developer** (level 5). 
 
 You will find on my profile different projects developed during this last year. And also the project I worked on during my internship. 
