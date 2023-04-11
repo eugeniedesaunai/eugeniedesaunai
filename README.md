@@ -12,7 +12,8 @@ I'm in a work-study contract with the company **Open Sezam**, which develops a s
 <a href="https://www.linkedin.com/in/eug%C3%A9nie-desaunai-b9354823a/">  <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin" > </a>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eugeniedesaunai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eugeniedesaunai&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniedesaunai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
